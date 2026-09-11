@@ -1,2 +1,4 @@
 # tiny-judgment-fonts
-Judgment fonts for Project Outfox's "pump" gamemode.
+Various judgment fonts for Project Outfox's "pump" gamemode.
+
+Graphics/Designs are made by me by hand, no GenAI used. Support human-made art!
